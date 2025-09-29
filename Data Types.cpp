@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Harshika Kamwal
+// 25070123508
 
 #include <iostream>
 using namespace std;
@@ -43,4 +43,5 @@ int main(){
 // Enter any number with bigger decimal 6.654323457643
 // Double Aditya and size is 8 bytes
 // Enter any letter A
+
 // Charerecter A and size is 1 bytes
